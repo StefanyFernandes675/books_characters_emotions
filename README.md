@@ -2,6 +2,9 @@
 
 Using machine learning algorithms to analyze the emotional states of characters in a book. This involves identifying patterns in the way characters express their emotions, such as their use of language, actions, and interactions, and using these patterns to make predictions about their behavior and motivations.
 
+## 👀 Preview
+Check out our prototype in [Figma](https://www.figma.com/file/TJrZereH2ffFOsGvigQMeZ/books_ai?node-id=0%3A1&t=qRISDqZTN8RvmMQT-1).
+
 ## 💻 Authors
 
 - Bruna Costa
